@@ -36,7 +36,7 @@
 }
 
 .log ul .player-turn {
-    color: blue;
+    color: rgba(0, 0, 255, 0.74);
     background-color: #e4e8ff;
 }
 
